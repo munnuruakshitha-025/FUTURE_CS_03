@@ -42,5 +42,5 @@ attached report.
 6. Classified findings by risk severity and documented remediation
 
 ## Files
-- [Report.pdf](./Report.pdf) — Full API Security Risk Analysis Report
+- [report.pdf](./report.pdf) — Full API Security Risk Analysis Report
 - Screenshots — Postman request/response evidence for each finding
